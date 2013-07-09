@@ -1,0 +1,82 @@
+body, a, a:visited{
+width:80%;
+margin:auto;
+color: #3086C1;
+}
+
+li a {
+text-decoration:none;
+
+}
+
+div.buit {
+height:35px;
+}
+
+div#header {
+height:196px;
+
+background-image:url('header.png');
+background-repeat:repeat-x;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+text-align:center;
+}
+
+.ocult {
+display:none;
+}
+
+#dominis {
+width:20%;
+float:left;
+border: 2px solid;
+}
+
+#resultats {
+width:72%;
+float:right;
+padding:0 8px 0 8px;
+display:hide;
+
+}
+
+hr {color: #E8B1B5;
+background-color:#E8B1B5;}
+
+ul {
+margin-left: -34%;
+list-style:none;
+}
+
+
+li {
+overflow:hidden;
+padding: 4px 2px 4px 8%;
+/*
+background-image: url('tria.png');
+background-position:left center;
+background-repeat: no-repeat;
+* */
+
+}
+
+li:hover {
+
+background-color: #D3E2EA;
+}
+
+table, tr{
+border:solid 1px;
+width:75%;
+margin: auto;
+
+}
+td {
+padding: .4em 0 .4em 0.5em;
+
+}
+
+
